@@ -1,4 +1,5 @@
 # 🐍 Conversando con Python
+Versión 1.0
 
 ## 💬 Una experiencia interactiva de conversación desarrollada en Python
 
@@ -12,7 +13,7 @@ El proyecto fue creado como parte de mi proceso de aprendizaje en programación,
 
 Este programa permite al usuario interactuar con Python a través de una serie de preguntas.
 
-Durante la ejecución, el programa solicita información al usuario, procesa sus respuestas y genera diferentes respuestas dependiendo de las opciones seleccionadas.
+Durante la ejecución, el programa solicita información al usuario, procesa sus respuestas y genera distintas respuestas según las opciones seleccionadas.
 
 La interacción busca mostrar de una manera sencilla y dinámica cómo un programa puede recibir información, analizarla y responder utilizando estructuras básicas de programación.
 
@@ -21,15 +22,13 @@ La interacción busca mostrar de una manera sencilla y dinámica cómo un progra
 ## 🎯 Objetivos del proyecto
 
 - Practicar los fundamentos del lenguaje Python.
-- Fortalecer el pensamiento lógico y la resolución de problemas.
-- Comprender el uso de variables y datos ingresados por el usuario.
+- Fortalecer el pensamiento lógico y la resolución de problemas- Comprender el uso de variables y datos ingresados por el usuario.
 - Implementar estructuras condicionales.
 - Trabajar con funciones básicas de Python.
 - Crear una experiencia interactiva mediante la consola.
 - Aplicar buenas prácticas durante el desarrollo de un proyecto.
 
 ---
-
 ## 🛠️ Tecnologías utilizadas
 
 - 🐍 **Python 3**
@@ -47,7 +46,6 @@ Durante el desarrollo del proyecto se utilizaron diferentes conceptos fundamenta
 - Salida de información mediante `print()`
 - Estructuras condicionales `if`, `elif` y `else`
 - Métodos `.lower()` y `.strip()`
-- Funciones
 - Comparación de datos
 - Lógica de programación
 - Interacción con el usuario
