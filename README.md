@@ -24,7 +24,7 @@ La interacción busca mostrar de una manera sencilla y dinámica cómo un progra
 - Practicar los fundamentos del lenguaje Python.
 - Fortalecer el pensamiento lógico y la resolución de problemas- Comprender el uso de variables y datos ingresados por el usuario.
 - Implementar estructuras condicionales.
-- Trabajar con funciones básicas de Python.
+- Aplicar estructuras básicas de programación.
 - Crear una experiencia interactiva mediante la consola.
 - Aplicar buenas prácticas durante el desarrollo de un proyecto.
 
@@ -52,16 +52,19 @@ Durante el desarrollo del proyecto se utilizaron diferentes conceptos fundamenta
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 ## ⚙️ Funciones del programa
 
-El programa permite:
+El programa **Conversando con Python** permite interactuar con el usuario mediante una conversación sencilla desde la consola.
 
-- 👋 Iniciar una conversación con el usuario.
-- 💬 Realizar preguntas.
-- ⌨️ Recibir respuestas mediante la consola.
-- 🧠 Procesar las respuestas ingresadas.
-- 🤖 Generar diferentes respuestas.
-- 🔄 Mantener una interacción sencilla entre el usuario y el programa.
+Entre sus principales funcionalidades se encuentran:
+
+* 🗣️ **Interacción con el usuario:** permite ingresar información mediante el teclado.
+* 👋 **Saludo inicial:** inicia la conversación con un mensaje de bienvenida.
+* 🧑 **Identificación del usuario:** solicita información al usuario para personalizar la conversación.
+* 💬 **Respuestas interactivas:** procesa las respuestas ingresadas y muestra diferentes mensajes.
+* 🤖 **Simulación conversacional:** representa una conversación básica entre el usuario y Python.
+* 🚪 **Finalización de la conversación:** permite terminar la interacción cuando el usuario lo indica.
+
 
 ---
 
