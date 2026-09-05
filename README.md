@@ -102,3 +102,9 @@ python3 conversando-con-Python.py
 ### 4. Interactuar con el programa
 
 Una vez ejecutado, el programa mostrará mensajes en la consola y podrás responder las preguntas escribiendo directamente desde el teclado.
+
+## 📸 Demostración
+
+A continuación se muestra el programa en funcionamiento:
+
+![Conversando con Python](Captura-Programa.png)
