@@ -69,11 +69,36 @@ Entre sus principales funcionalidades se encuentran:
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## 🚀 Cómo ejecutar el proyecto
+
+Para ejecutar el programa **Conversando con Python**, sigue estos pasos:
 
 ### 1. Clonar el repositorio
 
-Puedes clonar este proyecto utilizando Git:
+Abre una terminal y ejecuta:
 
 ```bash
 git clone https://github.com/yeudis/conversando-con-Python.git
+```
+
+### 2. Ingresar a la carpeta del proyecto
+
+```bash
+cd conversando-con-Python
+```
+
+### 3. Ejecutar el programa
+
+```bash
+python conversando-con-Python.py
+```
+
+> 💡 Si el comando `python` no funciona en tu equipo, puedes intentar con:
+
+```bash
+python3 conversando-con-Python.py
+```
+
+### 4. Interactuar con el programa
+
+Una vez ejecutado, el programa mostrará mensajes en la consola y podrás responder las preguntas escribiendo directamente desde el teclado.
