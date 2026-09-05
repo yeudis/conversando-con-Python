@@ -21,12 +21,13 @@ La interacción busca mostrar de una manera sencilla y dinámica cómo un progra
 
 ## 🎯 Objetivos del proyecto
 
-- Practicar los fundamentos del lenguaje Python.
-- Fortalecer el pensamiento lógico y la resolución de problemas- Comprender el uso de variables y datos ingresados por el usuario.
-- Implementar estructuras condicionales.
-- Aplicar estructuras básicas de programación.
-- Crear una experiencia interactiva mediante la consola.
-- Aplicar buenas prácticas durante el desarrollo de un proyecto.
+* Practicar los fundamentos del lenguaje Python.
+* Fortalecer el pensamiento lógico y la resolución de problemas.
+* Comprender el uso de variables y datos ingresados por el usuario.
+* Implementar estructuras condicionales.
+* Crear una experiencia interactiva mediante la consola.
+* Aplicar buenas prácticas durante el desarrollo de un proyecto.
+
 
 ---
 ## 🛠️ Tecnologías utilizadas
